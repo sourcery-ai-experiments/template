@@ -1,0 +1,28 @@
+project_name: 
+description: >
+  Dies ist eine sehr lange Beschreibung
+  des Projekts, die über mehrere Zeilen
+  verteilt ist. Sie kann beliebig lange
+  sein und enthält detaillierte
+  Informationen über das Projekt.
+
+settings:
+  database_url: "sqlite:///db.sqlite3"
+  api_key: "your_api_key"
+
+modules:
+  - name: Modul1
+    description: |
+      Dies ist eine lange Beschreibung
+      des ersten Moduls. Sie kann
+      über mehrere Zeilen verteilt
+      sein und enthält detaillierte
+      Informationen über das Modul.
+
+  - name: Modul2
+    description: >
+      Dies ist eine lange Beschreibung
+      des zweiten Moduls. Sie kann
+      über mehrere Zeilen verteilt
+      sein und enthält detaillierte
+      Informationen über das Modul.

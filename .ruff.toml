@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 88
+select = [
+    "E",  # PEP8
+    "F",  # PyFlakes
+    "W",  # PyLint warnings
+    "C",  # McCabe complexity
+    "N",  # PEP8 naming conventions
+]
